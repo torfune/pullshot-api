@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_table_brands",
+  "info": {
+    "displayName": "Table Brand",
+    "icon": "audio-description"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "enumeration",
+      "enum": [
+        "rosengart",
+        "leonhart"
+      ],
+      "required": true
+    }
+  }
+}
