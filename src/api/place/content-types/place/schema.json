@@ -34,6 +34,16 @@
     },
     "description": {
       "type": "text"
+    },
+    "latitude": {
+      "type": "float",
+      "required": true,
+      "default": 0
+    },
+    "longitude": {
+      "type": "float",
+      "required": true,
+      "default": 0
     }
   }
 }
